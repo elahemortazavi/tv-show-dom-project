@@ -4,4 +4,10 @@
 }
  p {
   color:rgb(25, 25, 97);
+  font-size: 20px;
+ }
+
+ #search-input, #select-input {
+   border-radius: 5px;
+   color: brown;
  }
